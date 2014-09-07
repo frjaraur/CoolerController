@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SimpleSerial.Form1.resources
+obj\Debug\SimpleSerial.Properties.Resources.resources
+obj\Debug\SimpleSerial.csproj.GenerateResource.Cache
+bin\Debug\SimpleSerial.exe
+bin\Debug\SimpleSerial.pdb
+obj\Debug\SimpleSerial.exe
+obj\Debug\SimpleSerial.pdb

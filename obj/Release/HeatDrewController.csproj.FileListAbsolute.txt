@@ -1,0 +1,10 @@
+F:\SkyDrive\C#\HeatdewController\HeatDewController\obj\Release\HeatDrewController.MainForm.resources
+F:\SkyDrive\C#\HeatdewController\HeatDewController\obj\Release\HeatDrewController.Properties.Resources.resources
+F:\SkyDrive\C#\HeatdewController\HeatDewController\obj\Release\HeatDrewController.csproj.GenerateResource.Cache
+F:\SkyDrive\C#\HeatdewController\HeatDewController\bin\Release\HeatDrewController.exe
+F:\SkyDrive\C#\HeatdewController\HeatDewController\bin\Release\HeatDrewController.pdb
+F:\SkyDrive\C#\HeatdewController\HeatDewController\obj\Release\HeatDrewController.exe
+F:\SkyDrive\C#\HeatdewController\HeatDewController\obj\Release\HeatDrewController.pdb
+F:\SkyDrive\C#\HeatdewController\HeatDewController\obj\Release\HeatDrewController.csprojResolveAssemblyReference.cache
+F:\SkyDrive\C#\HeatdewController\HeatDewController\obj\Release\HeatDrewController.GraphForm.resources
+F:\SkyDrive\C#\HeatdewController\HeatDewController\obj\Release\HeatDrewController.SmallForm.resources

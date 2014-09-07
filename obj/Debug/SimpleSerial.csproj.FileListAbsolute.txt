@@ -1,0 +1,8 @@
+F:\SkyDrive\C#\SimpleSerialCS\SimpleSerial\obj\Debug\SimpleSerial.exe
+F:\SkyDrive\C#\SimpleSerialCS\SimpleSerial\obj\Debug\SimpleSerial.pdb
+F:\SkyDrive\C#\SimpleSerialCS\SimpleSerial\bin\Debug\SimpleSerial.exe
+F:\SkyDrive\C#\SimpleSerialCS\SimpleSerial\bin\Debug\SimpleSerial.pdb
+F:\SkyDrive\C#\SimpleSerialCS\SimpleSerial\obj\Debug\SimpleSerial.csprojResolveAssemblyReference.cache
+F:\SkyDrive\C#\SimpleSerialCS\SimpleSerial\obj\Debug\SimpleSerial.Form1.resources
+F:\SkyDrive\C#\SimpleSerialCS\SimpleSerial\obj\Debug\SimpleSerial.Properties.Resources.resources
+F:\SkyDrive\C#\SimpleSerialCS\SimpleSerial\obj\Debug\SimpleSerial.csproj.GenerateResource.Cache

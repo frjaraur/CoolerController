@@ -1,0 +1,10 @@
+F:\C#\CoolerController\CoolerController\obj\Debug\CoolerController.MainForm.resources
+F:\C#\CoolerController\CoolerController\obj\Debug\CoolerController.Properties.Resources.resources
+F:\C#\CoolerController\CoolerController\obj\Debug\CoolerController.SmallForm.resources
+F:\C#\CoolerController\CoolerController\obj\Debug\CoolerController.csproj.GenerateResource.Cache
+F:\C#\CoolerController\CoolerController\bin\Debug\CoolerController.exe
+F:\C#\CoolerController\CoolerController\bin\Debug\CoolerController.pdb
+F:\C#\CoolerController\CoolerController\obj\Debug\CoolerController.csprojResolveAssemblyReference.cache
+F:\C#\CoolerController\CoolerController\obj\Debug\CoolerController.GraphForm.resources
+F:\C#\CoolerController\CoolerController\obj\Debug\CoolerController.exe
+F:\C#\CoolerController\CoolerController\obj\Debug\CoolerController.pdb
